@@ -10,7 +10,7 @@ Anteriormente, a atualização do relatório consumia mais de 1 hora de trabalho
 Agradeço por acompanhar o progresso deste projeto e fique atento para as atualizações futuras, incluindo o lançamento do *dashboard*.
 
 
-[Clique aqui para abrir o Notebook e confira a análise aplicada](https://github.com/atevilson/carteira-pedidos/blob/main/carteira-pedidos.ipynb)
+[Clique aqui para abrir o Notebook e confira a análise aplicada](https://github.com/fantasticworldofpandas/ETL-com-Python/blob/main/carteira-pedidos.ipynb)
 
 
 
